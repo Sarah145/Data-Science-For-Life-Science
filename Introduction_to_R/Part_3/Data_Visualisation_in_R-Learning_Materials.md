@@ -2,18 +2,18 @@
 
 ### Contents:
 
-- [Introduction](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#introduction)
-- [Plotting in base R](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#plotting-in-base-r)
-- [Plotting with `ggplot2`](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#plotting-with-ggplot2)
-  - [*Tidy data*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#tidy-data)
-  - [*A Grammar of Graphics*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#a-grammar-of-graphics)
-  - [*Building a ggplot*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#building-a-ggplot)
-  - [*Saving your work*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#saving-your-work)
+- [Introduction](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#introduction)
+- [Plotting in base R](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#plotting-in-base-r)
+- [Plotting with `ggplot2`](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#plotting-with-ggplot2)
+  - [*Tidy data*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#tidy-data)
+  - [*A Grammar of Graphics*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#a-grammar-of-graphics)
+  - [*Building a ggplot*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#building-a-ggplot)
+  - [*Saving your work*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#saving-your-work)
 
-- [Other packages and resources](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#other-packages-and-resources)
-  - [*Packages*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#packages)
-  - [*Resources*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#resources)
-- [Summary](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md#summary) 
+- [Other packages and resources](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#other-packages-and-resources)
+  - [*Packages*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#packages)
+  - [*Resources*](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#resources)
+- [Summary](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md#summary) 
 
 <br/>
 
