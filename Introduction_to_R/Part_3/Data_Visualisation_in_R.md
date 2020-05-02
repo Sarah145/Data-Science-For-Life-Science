@@ -58,7 +58,7 @@ Functions such as `plot`, `hist`, `boxplot` and `barplot` won't necessarily prod
   
   
   <p align='center'>
-  <img src='https://github.com/Sarah145/test_ds4ls/blob/master/Part_4/imgs/basic_plot.png' width=60%>
+  <img src='https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/imgs/basic_plot.png' width=60%>
   </p>
   
   ```R
@@ -66,7 +66,7 @@ Functions such as `plot`, `hist`, `boxplot` and `barplot` won't necessarily prod
   ```
   
   <p align='center'>
-      <img src='https://github.com/Sarah145/test_ds4ls/blob/master/Part_4/imgs/basic_plot2.png' width=60%>
+      <img src='https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/imgs/basic_plot2.png' width=60%>
   </p>
   
   
@@ -166,7 +166,7 @@ Functions such as `plot`, `hist`, `boxplot` and `barplot` won't necessarily prod
   ```
 
   <p align='center'>
-      <img src='https://github.com/Sarah145/test_ds4ls/blob/master/Part_4/imgs/other_base_plots.png' width=80%>
+      <img src='https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/imgs/other_base_plots.png' width=80%>
   </p>
 
   </details>

@@ -248,3 +248,14 @@ ggplot(avg_exp_df, aes()) +
   geom_tile()
 ```
 
+<br>
+
+----
+
+## Troubleshooting:
+
+- If you have any questions about this tutorial or you encounter any errors, you can post your issues on the ['Issues' tab of the GitHub](https://github.com/Genomics-CRT/Data-Science-For-Life-Science/issues). Where possible, include a clear example of your code and the error message that you're receiving.
+
+- Remember, Google is your friend and most of the answers you're looking for are probably already on [StackOverflow](https://stackoverflow.com/).
+
+- Feel free to email me any data viz questions - s.ennis6@nuigalway.ie.
