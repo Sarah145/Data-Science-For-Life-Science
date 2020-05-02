@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-This worksheet accompanies the [Data Visualisation in R - Learning Materials](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R.md) on GitHub. Solutions to this worksheet will be uploaded to GitHub on Thursday 7th May and I will go through all solutions at the Zoom conference at 2pm. 
+This worksheet accompanies the [Data Visualisation in R - Learning Materials](https://github.com/Sarah145/Data-Science-For-Life-Science/blob/master/Introduction_to_R/Part_3/Data_Visualisation_in_R-Learning_Materials.md) on GitHub. Solutions to this worksheet will be uploaded to GitHub on Thursday 7th May and I will go through all solutions at the Zoom conference at 2pm. 
 
 To complete this worksheet you will need to use the `ggplot2` package. Load it now by running the code chunk below. 
 
